@@ -1,4 +1,4 @@
-# Setting up a git hub action ###
+# Setting up a GitHub action ###
 
 ## Manual deploy  React application with GitHub Actions:
 
