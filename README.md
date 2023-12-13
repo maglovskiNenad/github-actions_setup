@@ -39,7 +39,7 @@
               run: |
                 git checkout -b gh-pages
                 git add -f build
-                git config --global user.email "email@adress.com"
+                git config --global user.email "email@address.com"
                 git config --global user.name "username"
                 git commit -m "Manual Deploy to GitHub Pages"
                 git push origin gh-pages
